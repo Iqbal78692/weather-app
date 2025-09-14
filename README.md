@@ -20,7 +20,7 @@ It fetches real-time weather data from **WeatherAPI** and displays it in an easy
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Home Screen](assets/screenshot1.png) | Search page |
+| ![Home Screen](assets/[screenshot1.png](https://github.com/Iqbal78692/weather-app/blob/main/Screenshot%202025-09-14%20165005.png?raw=true)) | Search page |
 | ![Weather Result]([assets/screenshot2.png](https://github.com/Iqbal78692/weather-app/blob/main/Screenshot%202025-09-14%20165005.png?raw=true)) | Weather info displayed |
 
 ---
